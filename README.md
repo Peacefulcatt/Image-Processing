@@ -3,19 +3,19 @@ Image Processing Application
 This is an image processing application built using Python and the PySide6 library. It allows users to select an image folder, view and select images from the folder, and apply image processing operations on the selected image.
 Libraries Used
 
-    Python - The programming language used to develop the application.
-    PySide6 - The cross-platform GUI toolkit for Python used to create the application's graphical interface.
-    OpenCV - The computer vision library used for image processing and contour detection.
+Python - The programming language used to develop the application.
+PySide6 - The cross-platform GUI toolkit for Python used to create the application's graphical interface.
+OpenCV - The computer vision library used for image processing and contour detection.
 
 Features
 
-    Browse and select an image folder.
-    Display a list of valid image files in the selected folder.
-    View and select an image from the list.
-    Process the selected image by applying image contour detection and saving the processed image.
-    Display the coordinates of the detected contours.
-    Save the coordinates to a text file.
-    Show a success message upon image processing completion.
+Browse and select an image folder.
+Display a list of valid image files in the selected folder.
+View and select an image from the list.
+Process the selected image by applying image contour detection and saving the processed image.
+Display the coordinates of the detected contours.
+Save the coordinates to a text file.
+Show a success message upon image processing completion.
     
 ## Installation
 
